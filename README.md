@@ -1,23 +1,4 @@
-{
-  "name": "FORTY FIVE Luxury Streetwear Store",
-  "short_name": "FORTY FIVE",
-  "start_url": "/45/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
-}
+
 # FORTY FIVE MVP — prototype
 
 ## Included
