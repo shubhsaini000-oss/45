@@ -1,11 +1,25 @@
 {
-  "name": "FORTY FIVE \u2014 Wear Your Story",
-  "short_name": "FORTY FIVE",
-  "description": "Premium streetwear shop and custom T-shirt designer prototype.",
-  "start_url": "./index.html",
+  "id": "./",
+  "name": "FORTY FIVE",
+  "short_name": "45",
+  "description": "Premium streetwear shop and custom T-shirt designer.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#080808",
   "theme_color": "#080808",
-  "icons": []
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
